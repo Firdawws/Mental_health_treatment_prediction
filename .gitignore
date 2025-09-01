@@ -1,5 +1,1 @@
-# Ignore all pickle model files
-*.pkl
 
-# Ignore the models folder if recreated
-models/
