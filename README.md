@@ -46,16 +46,16 @@ This project focuses on predicting whether an individual is likely to seek menta
       ```bash
    python -m venv venv
 
-  for activateing:
+3. Activate the environment
   ```bash
-source venv/bin/activate - for mac users
-venv\Scripts\activate  -for windows
+source venv/bin/activate    #for Mac users
+venv\Scripts\activate  #for windows 
 
-3. Install Dependencies:
+4. Install Dependencies:
    ```bash
     pip install -r requirements.txt
 
-4. Run the streamlit App:
+5. Run the streamlit App:
   ```bash
  streamlit run app.py
 
