@@ -51,16 +51,12 @@ This project focuses on predicting whether an individual is likely to seek menta
 source venv/bin/activate - for mac users
 venv\Scripts\activate  -for windows
 
-3. Install Dependencies
+3. Install Dependencies:
    ```bash
     pip install -r requirements.txt
 
-4. Run the streamlit App
+4. Run the streamlit App:
   ```bash
  streamlit run app.py
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/Firdawws/mental-health-treatment-prediction.git
 
 
