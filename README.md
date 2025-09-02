@@ -57,7 +57,16 @@ This project focuses on predicting whether an individual is likely to seek menta
 5. Run the Streamlit App
    ```bash
      streamlit run app.py
-   
+   ---
+
+## 📊 Project Badges  
+
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)  
+![License](https://img.shields.io/badge/License-MIT-green.svg)  
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)  
+![GitHub repo size](https://img.shields.io/github/repo-size/Firdawws/mental-health-treatment-prediction)  
+![GitHub last commit](https://img.shields.io/github/last-commit/Firdawws/mental-health-treatment-prediction)  
+
 
 
 
