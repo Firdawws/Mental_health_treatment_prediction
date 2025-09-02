@@ -61,3 +61,17 @@ This project focuses on predicting whether an individual is likely to seek menta
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Firdawws/mental-health-treatment-prediction.git
+
+2. Create and activate a Python environment:
+      ```bash
+   python -m venv venv
+
+  for activateing:
+  ```bash
+source venv/bin/activate - for mac users
+venv\Scripts\activate  -for windows
+
+3. 
+
+
+
