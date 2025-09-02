@@ -1,4 +1,4 @@
-# 🧠 Mental Health Treatment Prediction  
+#  Mental Health Treatment Prediction  
 
 ##  **Overview**  
 This project focuses on predicting whether an individual is likely to seek mental health treatment based on survey responses. By applying machine learning models, exploratory analysis, and statistical tests, the goal is to identify key factors influencing mental health treatment decisions.  
@@ -59,13 +59,8 @@ venv\Scripts\activate  -for windows
   ```bash
  streamlit run app.py
 
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/Firdawws/mental-health-treatment-prediction.git
 
-
-![Python](https://img.shields.io/badge/Python-3.9-blue.svg)  
-![License](https://img.shields.io/badge/License-MIT-green.svg)  
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)  
-![GitHub repo size](https://img.shields.io/github/repo-size/Firdawws/mental-health-treatment-prediction)  
-![GitHub last commit](https://img.shields.io/github/last-commit/Firdawws/mental-health-treatment-prediction)  
-
----
 
